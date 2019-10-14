@@ -1,7 +1,7 @@
 ||| -*- mode: gas; gas-comment-char: 124 -*-
 ||| z80 emulator for 68k calculators
 
-||| Duncan Smith
+||| Astrid Smith
 ||| Project started: 2010-06-06
 ||| GPL
 

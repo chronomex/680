@@ -7,7 +7,7 @@ z680k: z80 emulator for 68k calculators
   z   6   6 8   8 0   0 k k
  zzzz  666   888   000  k  k
 
-Duncan Smith
+Astrid Smith
 Project started: 2010-06-06
 
 This software package is licensed under the terms of the GNU General

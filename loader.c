@@ -2,7 +2,7 @@
  *
  * Includes splash screen, choose-an-image, etc.
  *
- * Copyright 2010, Duncan Smith
+ * Copyright 2010, Astrid Smith
  * GPL
  */
 #include <tigcclib.h>

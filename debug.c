@@ -2,7 +2,7 @@
  *
  * Includes debug output.
  *
- * Copyright 2010, Duncan Smith
+ * Copyright 2010, Astrid Smith
  * GPL
  */
 

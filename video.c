@@ -1,6 +1,6 @@
 /* LCD controller driver for 680 project.
  *
- * Copyright 2010, Duncan Smith
+ * Copyright 2010, Astrid Smith
  * GPL
  */
 

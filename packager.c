@@ -1,4 +1,4 @@
-/* Copyright 2010, Duncan Smith
+/* Copyright 2010, Astrid Smith
  * GPL
  *
  * A Linux tool to turn a rom dump into an 89g file of rom segments.
