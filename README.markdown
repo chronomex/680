@@ -1,11 +1,11 @@
 z680k: z80 emulator for 68k calculators
 =======================================
 
-       666   888   000  k  k
- zzzz 6     8   8 0   0 k k
-   z  6666   888  0 0 0 kk
-  z   6   6 8   8 0   0 k k
- zzzz  666   888   000  k  k
+          666   888   000  k  k
+    zzzz 6     8   8 0   0 k k
+      z  6666   888  0 0 0 kk
+     z   6   6 8   8 0   0 k k
+    zzzz  666   888   000  k  k
 
 Astrid Smith
 Project started: 2010-06-06
@@ -74,8 +74,8 @@ expected.
 * [More z80 instruction set reference](http://nemesis.lonestar.org/computers/tandy/software/apps/m4/qd/opcodes.html)
 * [Details on flags and other side effects](http://www.gaby.de/z80/z80code.htm)
 
-Incompatibilities with Real Hardware
-------------------------------------
+Known Incompatibilities with Real Hardware
+------------------------------------------
 
 1. PC-relative accesses (reads, writes, jumps) across page boundaries
    may not work.  This is apparently a rare enough occurence that
